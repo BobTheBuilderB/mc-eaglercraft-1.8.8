@@ -6,7 +6,7 @@
   
   you can also clone this to make your own copy of the web version of eaglercraft!
   
-  [![Deploy to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/BobTheBuilderB/eaglercraftx-1.8.8)
+  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/BobTheBuilderB/eaglercraftx-1.8.8)
   
   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FBobTheBuilderB%2Fmc-eagercraft-1.8.8%2F)
   
