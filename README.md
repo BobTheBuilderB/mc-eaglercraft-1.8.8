@@ -2,7 +2,7 @@
 
   ||| Verson 1.8!!!!!
 
-  Online version is https://bobthebuilderb.github.io/eaglercraftx-1.8.8/ (online version saves everything you do in your worlds or in the settings, so you don't have to always download your worlds to save save them).
+  Online version is https://bobthebuilderb.github.io/eaglercraft-1.8.8/ (online version saves everything you do in your worlds or in the settings, so you don't have to always download your worlds to save save them).
   
   you can also clone this to make your own copy of the web version of eaglercraft!
   
