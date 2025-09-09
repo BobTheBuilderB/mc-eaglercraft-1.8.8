@@ -10,8 +10,6 @@
   
   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FBobTheBuilderB%2Feagercraft-1.8.8%2F)
   
-  **||| Verson 1.8 |||**
-  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   **||| UPDATED VERSION |||**
