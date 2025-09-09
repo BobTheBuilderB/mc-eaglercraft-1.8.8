@@ -18,4 +18,4 @@
 
   - **Changed:** Updated verson to 1.12.2
 
-     Access the updated online verson at https://github.com/BobTheBuilderB/eaglercraft-1.12.2
+   Access the updated online verson at https://github.com/BobTheBuilderB/eaglercraft-1.12.2
